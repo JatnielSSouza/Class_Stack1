@@ -8,6 +8,7 @@ int main()
     Stack stack;
     ItemType stackItem;
 
+    cout << endl;
     cout << "Escreva uma string: \n";
     cin.get(character);
 
@@ -17,10 +18,14 @@ int main()
         cin.get(character);
     }
 
+    cout << "\nA pilha como vetor e: \n";
+    stack.print();
+
+    cout << "\nRemocao atraves do metodo pop(): \n";
     while (!stack.isEmpty())
     {
         stackItem = stack.pop();
         cout << stackItem;
     }
-    cout << endl;
+    cout << "\n\n";
 }
