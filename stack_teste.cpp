@@ -1,3 +1,5 @@
+// Aplicação:
+// Teste da pilha como vetor:
 #include "stack.h"
 #include <iostream>
 using namespace std;

@@ -1,3 +1,5 @@
+// Declaração:
+// Constante, classe, métodos, atributos, variável e ponteiro:
 #include "item_type.h"
 
 const int MAX_ITEMS = 100;

@@ -1,6 +1,5 @@
-/*
-    Implementação de uma pilha como vetor
-*/
+// Implementação:
+// Pilha como vetor:
 #include "stack.h"
 #include <iostream>
 using namespace std;
