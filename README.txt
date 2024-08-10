@@ -4,4 +4,4 @@ $ g++ *.cpp
 
 Once this is done, it can run on terminal typing:
 
-$ ./a.out
+$ ./a.out (or a.exe)
